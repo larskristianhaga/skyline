@@ -6,6 +6,12 @@
 gh extension install github/gh-skyline
 ```
 
+## Upgrading
+
+```bash
+gh extension upgrade skyline
+```
+
 ## Usage
 
 Get the Skyline data for the current user and year:
