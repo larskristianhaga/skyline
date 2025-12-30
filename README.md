@@ -20,8 +20,19 @@ Get the Skyline data for the current user and year:
 gh skyline
 ```
 
-More advanced usage with options:
+Get the full Skyline data for the current user:
+```bash
+gh skyline --full
+```
+
+Get the Skyline data for a specific user:
 
 ```bash
-gh skyline –-user larskristianhaga --year 2015-2025
+gh skyline –-user larskristianhaga
+```
+
+Get the Skyline data for specific years:
+
+```bash
+gh skyline --year 2015-2025
 ```
