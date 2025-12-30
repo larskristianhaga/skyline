@@ -23,5 +23,5 @@ gh skyline
 More advanced usage with options:
 
 ```bash
-gh skyline –-user larskristianhaga --year 2015-2024
+gh skyline –-user larskristianhaga --year 2015-2025
 ```
